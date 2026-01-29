@@ -1,2 +1,2 @@
 # crud-apirest
-Se realizo un apirest.crud sensillo utilizando las sigueintes tecnologia Sprint Boot, Postgres y Hiberate
+Se realizo un apirest.crud sensillo utilizando las siguientes tecnologias Sprint Boot, Postgres y Hiberate
